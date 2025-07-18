@@ -60,7 +60,7 @@ A C# .NET 8 console application that integrates with Google Calendar to track bi
 
 - **Bills Calendar**: Create a calendar named "Bills" and add all-day events in the format:
   - `Spotify ($17)`
-  - `SRP ($112.68)`
+  - `Water Bill ($112.68)`
   - `Mortgage ($1250.00)`
 
 - **Default Calendar**: Add payday events to your default calendar in the format:
